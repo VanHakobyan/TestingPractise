@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLib", "CalcLib\CalcLib.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLib.Tests", "CalcLib.Tests\CalcLib.Tests.csproj", "{8FC5758A-E045-4DE2-86BA-E2B58FBA8F52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLib", "UserLib\UserLib.csproj", "{C79198AF-4738-48AB-AB4E-D43362E8D80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLibTests", "UserLibTests\UserLibTests.csproj", "{3A24528B-A255-4311-83EB-07D15C3669F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8FC5758A-E045-4DE2-86BA-E2B58FBA8F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FC5758A-E045-4DE2-86BA-E2B58FBA8F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FC5758A-E045-4DE2-86BA-E2B58FBA8F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79198AF-4738-48AB-AB4E-D43362E8D80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79198AF-4738-48AB-AB4E-D43362E8D80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79198AF-4738-48AB-AB4E-D43362E8D80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79198AF-4738-48AB-AB4E-D43362E8D80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A24528B-A255-4311-83EB-07D15C3669F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A24528B-A255-4311-83EB-07D15C3669F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A24528B-A255-4311-83EB-07D15C3669F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A24528B-A255-4311-83EB-07D15C3669F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
