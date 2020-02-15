@@ -10,14 +10,11 @@ using System.Threading.Tasks;
 namespace FileManagerLib
 {
     
-    class FileManager
+    public class FileManager
     {
         private IDataAccessObject dataAccessObject;
 
-        public FileManager()
-        {
-
-        }
+        public FileManager(){}
 
         public FileManager(IDataAccessObject dataAccessObject)
         {
